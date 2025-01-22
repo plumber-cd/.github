@@ -6,7 +6,7 @@ Well, I had a huge idea many many years ago to build a Jenkins rival.
 Which, for better or worse, never happened.
 
 Since, I am using this organization as an umbrella for all my Open Source work.
-Which, for the most part, are various tools utilities for kubernetes, clouds and other infra.
+Which, for the most part, are various operators, tools and utilities for kubernetes, clouds and other infra.
 Pinned repos are more or less representative of my current focus.
 
 All these repositories should really all just be under my username, but I'm lazy to move everything.
