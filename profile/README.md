@@ -11,6 +11,6 @@ Pinned repos are more or less representative of my current focus and priorities.
 
 All these repositories should really all just be under my username, but I'm lazy to move everything.
 And also - probably some external links would break.
-Especially, Go dependencies.
+Especially - Go modules depending on some of this code.
 
 So, anyway, this is me: https://github.com/dee-kryvenko
