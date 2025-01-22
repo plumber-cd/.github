@@ -13,4 +13,4 @@ All these repositories should really all just be under my username, but I'm lazy
 And also - probably some external links would break.
 Especially, Go dependencies.
 
-So, anyway, this is me: @dee-kryvenko
+So, anyway, this is me: https://github.com/dee-kryvenko
