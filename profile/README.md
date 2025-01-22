@@ -2,7 +2,7 @@
 
 What is this organization?
 
-Well, I had a huge idea many years ago to build a Jenkins rival.
+Well, I had a huge idea many many years ago to build a Jenkins rival.
 Which, for better or worse, never happened.
 
 Since, I am using this organization as an umbrella for all my Open Source work.
