@@ -1,8 +1,15 @@
 ## Your humble plumber
 
-This organization should just be a single user, but for historical reasons it's not, and I am lazy to move everything.
+What is this organization?
+Well, I had a huge idea many years ago to build a Jenkins rival.
+Which, for better or worse, never happened.
 
-This is me: https://github.com/dee-kryvenko
+Since, I am using this organization an an umbrella for all my Open Source work.
+Which, for the most part, are various tools utilities for kubernetes, clouds and other infra.
+Pinned repos are more or less representative of my current focus.
 
-I store all my OSS projects in this organization, which for the most part are tools for infra and cloud and kubernetes.
-See pins for the most fun ones.
+All these repositories should really all just be under my username, but I'm lazy to move everything.
+And also - probably some external links would break.
+Especially, Go dependencies.
+
+So, anyway, this is me: https://github.com/dee-kryvenko
